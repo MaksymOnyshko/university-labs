@@ -1,7 +1,3 @@
-# university-labs
-
-Лабораторні роботи та навчальні проєкти з Natural Language Processing, Deep Learning та Machine Learning — виконані під час навчання в Ivan Franko National University of Lviv.
-
 ## Зміст
 
 - **ЕКЗ_Онишко_Максим.ipynb** — екзаменаційна робота: побудова та порівняння моделей (регресія/класифікація)
