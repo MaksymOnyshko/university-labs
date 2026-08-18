@@ -1,13 +1,11 @@
-# university-labs
+# Deep Learning Labs
 
-Лабораторні роботи та навчальні проєкти з Natural Language Processing, Deep Learning та Machine Learning — виконані під час навчання в Ivan Franko National University of Lviv.
+Практичні роботи з Deep Learning (Andrew Ng's Deep Learning Specialization style): побудова нейромереж з нуля на NumPy, ініціалізація/регуляризація, методи оптимізації.
 
-## Зміст
-
-- **ЕКЗ_Онишко_Максим.ipynb** — екзаменаційна робота: побудова та порівняння моделей (регресія/класифікація)
-- **М3_Онишко_Максим.ipynb** — індивідуальний проєкт: ансамблеві методи (Bagging, AdaBoost, Gradient Boosting, XGBoost, Stacking) для регресії
-- **М4_Онишко_Максим.ipynb** — індивідуальний проєкт: ансамблеві методи класифікації
-
-## Технології
-
-Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib/seaborn
+| Notebook | Тема |
+|---|---|
+| Logistic_Regression_with_a_Neural_Network_mindset.ipynb | Логістична регресія як найпростіша нейромережа |
+| Planar_data_classification_with_one_hidden_layer.ipynb | Нейромережа з одним прихованим шаром |
+| Building_your_Deep_Neural_Network_Step_by_Step.ipynb | Побудова глибокої нейромережі "з нуля" |
+| Initialization_Regularization.ipynb | Ініціалізація ваг, L2/dropout регуляризація |
+| Optimization_methods.ipynb | Mini-batch GD, Momentum, Adam |
