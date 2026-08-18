@@ -1,13 +1,18 @@
-# university-labs
+# ML Certificates (DataCamp)
 
-Лабораторні роботи та навчальні проєкти з Natural Language Processing, Deep Learning та Machine Learning — виконані під час навчання в Ivan Franko National University of Lviv.
+Сертифікати про проходження курсів DataCamp з Machine Learning та Data Science.
 
-## Зміст
-
-- **ЕКЗ_Онишко_Максим.ipynb** — екзаменаційна робота: побудова та порівняння моделей (регресія/класифікація)
-- **М3_Онишко_Максим.ipynb** — індивідуальний проєкт: ансамблеві методи (Bagging, AdaBoost, Gradient Boosting, XGBoost, Stacking) для регресії
-- **М4_Онишко_Максим.ipynb** — індивідуальний проєкт: ансамблеві методи класифікації
-
-## Технології
-
-Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib/seaborn
+- Cleaning Data in Python
+- Understanding Data Visualization
+- Data Communication Concepts
+- Introduction to Regression with statsmodels in Python
+- Supervised Learning with scikit-learn
+- Intermediate Regression with statsmodels in Python
+- Feature Engineering for Machine Learning in Python
+- Dealing with Missing Data in Python
+- Dimensionality Reduction in Python
+- Preprocessing for Machine Learning in Python
+- Hyperparameter Tuning in Python
+- Machine Learning with Tree-Based Models in Python
+- Ensemble Methods in Python
+- Cluster Analysis in Python
